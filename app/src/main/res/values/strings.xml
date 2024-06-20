@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UTSPPB</string>
+    <array name="tes">
+        <item>Pilih Jenis BBM</item>
+        <item>Pertalite</item>
+        <item>Dex</item>
+        <item>Pertamax</item>
+        <item>Pertamax Turbo</item>
+        <item>Biosolar</item>
+    </array>
+</resources>
