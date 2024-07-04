@@ -1,6 +1,6 @@
 "# 2024_TI4D_03" 
-M. Naufal Dzil Ikram,
-Muhammad Yusup Haekal Sambas,
-Nuriliani,
-M. Apriansyah,
-Mico Gosyin
+1. M. Naufal Dzil Ikram,
+2. Muhammad Yusup Haekal Sambas,
+3. Nuriliani,
+4. M. Apriansyah,
+5. Mico Gosyin
